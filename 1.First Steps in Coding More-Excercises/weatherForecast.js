@@ -1,0 +1,5 @@
+function weatherForecast (input) {
+
+
+}
+weatherForecast ([])
