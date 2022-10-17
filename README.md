@@ -13,4 +13,4 @@ Skills learned:
 </ul>
 
 ![Programming Basics Certificate]
-[embed]https://softuni.bg/certificates/details/134354/6600d18e.pdf[/embed]
+(https://github.com/Djani-Antova/Programming-Basics-JS-April-2022/blob/main/Certificate%20Programming%20Basics%20-%20April%202022.pdf)
