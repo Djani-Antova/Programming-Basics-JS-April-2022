@@ -1,4 +1,4 @@
-function submitAsolution (input) {
+function pages (input) {
     let pages = Number(input[0]);
     let pagesHourly = Number(input[1]);
     let daysForBook = Number(input[2]);
@@ -7,6 +7,6 @@ function submitAsolution (input) {
 
     console.log(days)
 }
-submitAsolution(["432 ",
+pages(["432 ",
 "15 ",
 "4 "])
