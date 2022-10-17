@@ -12,6 +12,7 @@ Skills learned:
   <li>Nested loops</li>
 </ul>
 
+
 ![Programming Basics Certificate]
-<img src="https://github.com/Djani-Antova/Programming-Basics-JS-April-2022/blob/main/Certificate%20Programming%20Basics%20-%20April%202022.pdf"
+<img src="https://github.com/Djani-Antova/Programming-Basics-JS-April-2022/blob/main/Certificate%20Programming%20Basics%20-%20April%202022.pdf">
 
