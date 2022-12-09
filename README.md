@@ -1,6 +1,6 @@
 # Programming Basics JavaScript - SoftUni
 
-This repository contains the Programming basics course from SoftUni.
+This repository contains task solutions from the Programming basics course from SoftUni.
 
 Skills learned:
 <ul>
