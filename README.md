@@ -1,17 +1,9 @@
-# Programming Basics JavaScript - SoftUni
 
-This repository contains task solutions from the Programming basics course from SoftUni.
+# <p align="center"><a href=https://https://softuni.bg/trainings/3742/programming-basics-with-javascript-april-2022> Programming Basics with JavaScript - April 2022 <a/><p>
+  
+ The **"Programming Basics"** course provides **basic programming skills** required for all technology majors at the Software University. This includes writing **basic code skills**, working with a **development environment** (IDE), using **variables and data, operators and expressions, working with the console** (reading input and printing results), using **conditional constructions** (if, if-else) and **loops** (for, while, do-while).
+  
+ Link to <a href=https://softuni.bg/courses/programming-basics> "Programming Basics"<a/> course from <a href=https://softuni.bg/> SoftUni<a/>.
 
-Skills learned:
-<ul>
-  <li>First steps is Programming</li>
-  <li>Conditional statements - if, else, else if</li>
-  <li>Conditional statements Advanced - switch</li>
-  <li>For loop</li>
-  <li>While loop</li>
-  <li>Nested loops</li>
-</ul>
 
-![Programming Basics Certificate]
-<img src="https://github.com/Djani-Antova/Programming-Basics-JS-April-2022/blob/main/Certificate_PB_April_2022.pdf">
 
